@@ -19,7 +19,7 @@
     },
   
     {
-      "project_name": "Hostel complent app",
+      "project_name": "Hostel Complent App",
       "image_url": "https://ratheesh2003.github.io/portfolio/assets/Hostel.jpg",
       "description": "Revolutionized user feedback with a dynamic hostel complaint app, streamlining communication and enhancing the living experience.",
       "source_link": "https://github.com/Ratheesh2003",
@@ -28,7 +28,7 @@
     },
   
     {
-      "project_name": "Gym book app",
+      "project_name": "Gym Book App",
       "image_url": "https://ratheesh2003.github.io/portfolio/assets/Gym.png",
       "description": "An innovative fitness companion that streamlines workout scheduling, tracking, and progress analysis, making every fitness journey a well-guided adventure.",
       "source_link": "https://github.com/Ratheesh2003",
@@ -37,15 +37,15 @@
     },
   
     {
-      "project_name": "Jarvis recreate",
+      "project_name": "Jarvis Recreate",
       "image_url": "https://ratheesh2003.github.io/portfolio/assets/Jarvis.jpeg",
       "description": "I reimagined and revitalized the Jarvis AI concept, infusing it with modern technologies and intuitive user interactions, resulting in an AI assistant that seamlessly integrates into daily tasks",
       "source_link": "https://github.com/Ratheesh2003",
       "live_link": "N/A",
-      "tech_stack": ["Vite + React","Ruby on Rails","SCSS"]
+      "tech_stack": ["Python","Flask","HTML","CSS","JS"]
     },
       {
-      "project_name": "E- commerce Website",
+      "project_name": "E-commerce Website",
       "image_url": "https://ratheesh2003.github.io/portfolio/assets/E-commerce.png",
       "description": "Crafted a dynamic e-commerce platform that seamlessly connects customers with products, ensuring a user-friendly shopping experience",
       "source_link": "https://github.com/Ratheesh2003",
@@ -53,7 +53,7 @@
       "tech_stack": ["HTML","CSS","SCSS","PHP","MySql"]
     },
      {
-      "project_name": "Resturant  Website",
+      "project_name": "Resturant Website",
       "image_url": "https://ratheesh2003.github.io/portfolio/assets/Resturant.jpg",
       "description": "Crafted an immersive online presence for a renowned restaurant, seamlessly blending captivating visuals with user-friendly navigation, resulting in increased engagement and reservations.",
       "source_link": "https://github.com/Ratheesh2003",
@@ -61,7 +61,7 @@
       "tech_stack": ["HTML","CSS","SCSS","WordPress"]
     },
    {
-      "project_name": "Woo Commerce shopping  Website",
+      "project_name": "Woo Commerce Shopping  Website",
       "image_url": "https://ratheesh2003.github.io/portfolio/assets/WooCommerce.jpg",
       "description": "Crafted a seamless WooCommerce shopping experience, blending intuitive design with robust functionality.",
       "source_link": "https://github.com/Ratheesh2003",
@@ -69,7 +69,7 @@
       "tech_stack": ["HTML","CSS","SCSS","WordPress","Woo Commerce "]
     },
     {
-      "project_name": "100 days frontend challenge",
+      "project_name": "100 Days Frontend Challenge",
       "image_url": "https://ratheesh2003.github.io/portfolio/assets/100days.jpg",
       "description": "Conquered the 100 Days Frontend Challenge, crafting captivating web interfaces and pushing my creative and coding boundaries.",
       "source_link": "https://github.com/Ratheesh2003",
@@ -77,7 +77,7 @@
       "tech_stack": ["HTML","CSS","SCSS","JS"]
     },
    {
-      "project_name": "50 days blender challenge",
+      "project_name": "50 Days Blender Challenge",
       "image_url": "https://ratheesh2003.github.io/portfolio/assets/50days.webp",
       "description": "Embarked on a transformative journey with the 50 Days Blender Challenge, mastering the art of 3D creation one day at a time.",
       "source_link": "https://github.com/Ratheesh2003",
