@@ -11,7 +11,7 @@
   
     {
       "project_name": "Resume Generator",
-      "image_url": "https://ratheesh2003.github.io/portfolio/assets/Resume.png",
+      "image_url": "https://ratheesh2003.github.io/portfolio/assets/Resume.jpg",
       "description": "Created a dynamic Resume Generator project that empowers users to effortlessly generate professional resumes by inputting their information, streamlining the job application process.",
       "source_link": "https://github.com/Ratheesh2003",
       "live_link": "N/A",
@@ -43,11 +43,46 @@
       "source_link": "https://github.com/Ratheesh2003",
       "live_link": "N/A",
       "tech_stack": ["Vite + React","Ruby on Rails","SCSS"]
+    },
+      {
+      "project_name": "E- commerce Website",
+      "image_url": "https://ratheesh2003.github.io/portfolio/assets/E-commerce.png",
+      "description": "Crafted a dynamic e-commerce platform that seamlessly connects customers with products, ensuring a user-friendly shopping experience",
+      "source_link": "https://github.com/Ratheesh2003",
+      "live_link": "N/A",
+      "tech_stack": ["HTML","CSS","SCSS","PHP","MySql"]
+    },
+     {
+      "project_name": "Resturant  Website",
+      "image_url": "https://ratheesh2003.github.io/portfolio/assets/Resturant.jpg",
+      "description": "Crafted an immersive online presence for a renowned restaurant, seamlessly blending captivating visuals with user-friendly navigation, resulting in increased engagement and reservations.",
+      "source_link": "https://github.com/Ratheesh2003",
+      "live_link": "N/A",
+      "tech_stack": ["HTML","CSS","SCSS","WordPress"]
+    },
+   {
+      "project_name": "Woo Commerce shopping  Website",
+      "image_url": "https://ratheesh2003.github.io/portfolio/assets/WooCommerce.jpg",
+      "description": "Crafted a seamless WooCommerce shopping experience, blending intuitive design with robust functionality.",
+      "source_link": "https://github.com/Ratheesh2003",
+      "live_link": "N/A",
+      "tech_stack": ["HTML","CSS","SCSS","WordPress","Woo Commerce "]
+    },
+    {
+      "project_name": "100 days frontend challenge",
+      "image_url": "https://ratheesh2003.github.io/portfolio/assets/100days.jpg",
+      "description": "Conquered the 100 Days Frontend Challenge, crafting captivating web interfaces and pushing my creative and coding boundaries.",
+      "source_link": "https://github.com/Ratheesh2003",
+      "live_link": "N/A",
+      "tech_stack": ["HTML","CSS","SCSS","JS"]
+    },
+   {
+      "project_name": "50 days blender challenge",
+      "image_url": "https://ratheesh2003.github.io/portfolio/assets/50days.webp",
+      "description": "Embarked on a transformative journey with the 50 Days Blender Challenge, mastering the art of 3D creation one day at a time.",
+      "source_link": "https://github.com/Ratheesh2003",
+      "live_link": "N/A",
+      "tech_stack": ["Blender"]
     }
-  
    
-  
-  
-  
-  
 ]
