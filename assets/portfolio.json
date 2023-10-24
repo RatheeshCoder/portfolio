@@ -1,5 +1,13 @@
 [
     {
+      "project_name": "3D car Game ",
+      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/car-game.jpg",
+      "description": "Get ready for a thrilling ride in my 3D car game! Test your skills and conquer the road. Play now!...",
+      "source_link": "https://github.com/ratheeshcoder",
+      "live_link": "N/A",
+      "tech_stack": ["HTML","Three.js","JS","BootStrap","CSS"]
+    },
+    {
       "project_name": "Dashboard",
       "image_url": "https://ratheeshcoder.github.io/portfolio/assets/dashboard.png",
       "description": "Created a dynamic and intuitive dashboard that transforms complex data into actionable insights, empowering informed decision-making..",
