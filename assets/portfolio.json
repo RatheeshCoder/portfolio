@@ -1,4 +1,28 @@
 [
+     {
+      "project_name": "Company Portfolio ",
+      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/CompanyPortfolio.jpg",
+      "description": "Crafting digital excellence as a web developer—turning visions into vibrant online realities ...",
+      "source_link": "https://github.com/ratheeshcoder",
+      "live_link": "N/A",
+      "tech_stack": ["React.js","TailwindCSS","Node.js","Express.js","MongoDB"]
+    },
+     {
+      "project_name": "College department Tracking ",
+      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/college.jpg",
+      "description": "Revolutionized college department tracking with my latest web development project. Seamless processes, enhanced user experience ...",
+      "source_link": "https://github.com/ratheeshcoder",
+      "live_link": "N/A",
+      "tech_stack": ["React.js","TailwindCSS","Node.js","Express.js","MongoDB"]
+    },
+    {
+      "project_name": "Bus Tracking System ",
+      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/bus.jpg",
+      "description": "Elevated commuter journeys through my innovative Bus Tracking System—a web developer's touch on seamless transit...",
+      "source_link": "https://github.com/ratheeshcoder",
+      "live_link": "N/A",
+      "tech_stack": ["HTML","Three.js","JS","BootStrap","CSS"]
+    },
     {
       "project_name": "3D car Game ",
       "image_url": "https://ratheeshcoder.github.io/portfolio/assets/car-game.jpg",
