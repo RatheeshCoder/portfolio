@@ -1,5 +1,12 @@
 [
-     {
+    {
+      "project_name": "CRM Of Task Completed ",
+      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/CRM-TaskCompleted.png",
+      "description": "Creating Customize CRM with intergate with Whatsapp , LinkedIn , also use to manage the Student Task ...",
+      "source_link": "https://github.com/ratheeshcoder",
+      "live_link": "N/A",
+      "tech_stack": ["Vite.js","TailwindCSS","Node.js","Express.js","MongoDB", "Whatsapp-Web.js"]
+    }, {
       "project_name": "Company Portfolio ",
       "image_url": "https://ratheeshcoder.github.io/portfolio/assets/CompanyPortfolio.jpg",
       "description": "Crafting digital excellence as a web developer—turning visions into vibrant online realities ...",
